@@ -1,6 +1,6 @@
 import "./index.scss"
 
-function Volunt() {
+function Sobre() {
     return (
         <div className="div-pai">
             <section className="sc-sobre">
@@ -46,4 +46,4 @@ function Volunt() {
     )
 }
 
-export default Volunt();
+export default Sobre();
